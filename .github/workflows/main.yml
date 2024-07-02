@@ -1,5 +1,5 @@
 # dev.yaml
-name: Deploy to dev
+name: Deploy
 
 on:
   push:
